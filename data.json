@@ -1,0 +1,1395 @@
+{
+    "theme1": {
+      "titles": {
+        "table_a": "표현",
+        "table_b": "예문"
+      },
+        "table_a": [
+  {
+    "EN": "Performance calibration",
+    "KR": "성과 조율/ 평가 보정 회의"
+  },
+  {
+    "EN": "Baseball card",
+    "KR": "베이스볼카드 (직원성과요약/ 프로필)"
+  },
+  {
+    "EN": "employment engagement",
+    "KR": "직원 몰입도"
+  },
+  {
+    "EN": "pulse survey",
+    "KR": "직원 경험 설문"
+  },
+  {
+    "EN": "retention risk",
+    "KR": "퇴사(이탈) 리스크"
+  },
+  {
+    "EN": "team sentiment",
+    "KR": "팀분위기/ 정서"
+  },
+  {
+    "EN": "voluntary attrition",
+    "KR": "자발적 이직"
+  },
+  {
+    "EN": "involuntary attrition",
+    "KR": "비자발적 퇴사"
+  },
+  {
+    "EN": "peer feedback",
+    "KR": "동료 피드백"
+  },
+  {
+    "EN": "manager assessment",
+    "KR": "매니저 평가"
+  },
+  {
+    "EN": "self-evaluation/ self-assessment",
+    "KR": "자기 평가"
+  },
+  {
+    "EN": "consistency across org",
+    "KR": "조직 간 평가 일관성"
+  },
+  {
+    "EN": "benchmark/ calibration bar",
+    "KR": "기준선/ 평가 척도"
+  },
+  {
+    "EN": "exceed expectation",
+    "KR": "기대치 초과"
+  },
+  {
+    "EN": "meet expectation",
+    "KR": "기대치 충족"
+  },
+  {
+    "EN": "partially meet expectation",
+    "KR": "일부 기대치 충족"
+  },
+  {
+    "EN": "fall short of expectation",
+    "KR": "기대치 미달"
+  },
+  {
+    "EN": "top performer/ high performer",
+    "KR": "우수 성과자"
+  },
+  {
+    "EN": "solid performer",
+    "KR": "안정적인 성과자"
+  },
+  {
+    "EN": "low performer",
+    "KR": "저성과자"
+  },
+  {
+    "EN": "over-indexed/ under-indexed",
+    "KR": "과대평가됨/ 과소평가됨"
+  },
+  {
+    "EN": "relative performance",
+    "KR": "상대적 성과"
+  },
+  {
+    "EN": "stack ranking",
+    "KR": "상대 비교 평가 (순위)"
+  },
+  {
+    "EN": "high potentail",
+    "KR": "성장 잠재력이 높은 인재"
+  },
+  {
+    "EN": "ready for next level",
+    "KR": "다음 레벨 승진 준비가 된"
+  },
+  {
+    "EN": "on the cusp",
+    "KR": "경계선에 있는"
+  },
+  {
+    "EN": "long tail",
+    "KR": "하위 성과자군"
+  },
+  {
+    "EN": "calibration round",
+    "KR": "조율 단계"
+  },
+  {
+    "EN": "narrative summary",
+    "KR": "평가 서술 요약"
+  },
+  {
+    "EN": "final decision alignment",
+    "KR": "최종 결정 합의"
+  }
+],
+        "table_b": [
+  {
+    "EN": "Let's make sure we're calibrated on the bar for this level.",
+    "KR": "이 레벨에 대한 평가 기준선을 맞춰보자."
+  },
+  {
+    "EN": "Our bar for Senior might be slightly higher this cycle.",
+    "KR": "이번 사이클에는 시니어 기준이 조금 더 높아졌다."
+  },
+  {
+    "EN": "We're trying to ensure consistency across orgs.",
+    "KR": "조직 간 평가의 일관성을 확보하고자 한다."
+  },
+  {
+    "EN": "This rating feels a bit inflated given the scope.",
+    "KR": "스폽을 고려했을때 평점이 다소 높게 느껴진다."
+  },
+  {
+    "EN": "We might be under-leveling this person.",
+    "KR": "레벨이 다소 낮게 매겨진 것 같다."
+  },
+  {
+    "EN": "Let's check if their impact truly scales beyong their current role.",
+    "KR": "현재 역할을 넘어선 임팩트를 냈는지 확인해보자."
+  },
+  {
+    "EN": "Are we being consistent with how we rated others in similar roles?",
+    "KR": "비슷한 직무의 다른 직원과 일관된 평가 기준으로 평가받고 있는가?"
+  },
+  {
+    "EN": "I'd like to anchor this discuttion around the core competencies for this level.",
+    "KR": "이 레벨의 핵심 역량을 기준으로 논의하고자 한다."
+  },
+  {
+    "EN": "Let's make sure recency bias isn't affecting our decision.",
+    "KR": "최근 성과 편향이 영향을 미치지 않도록 하자."
+  },
+  {
+    "EN": "We need more evidence to justify this rating.",
+    "KR": "이 평점을 뒷받침할 구제적인 근거가 필요하다."
+  },
+  {
+    "EN": "He's operating weel above his current level.",
+    "KR": "현재 레벨을 훨씬 상회하는 퍼포먼스를 보여주고 있다."
+  },
+  {
+    "EN": "She's already funcioning at the next level in terms of scope and ownership.",
+    "KR": "스콥이나 오너십 측면에서 이미 다음 레벨 수준으로 일하고 있다."
+  },
+  {
+    "EN": "He's consistently demonstrating oo-level influence.",
+    "KR": "시니어급 영향력을 꾸준히 보여주고 있다."
+  },
+  {
+    "EN": "She's ready for the next step; the growht trajectory is clear.",
+    "KR": "다음 단계로 갈 준비가 되어있고 성장 궤적이 명확하다."
+  },
+  {
+    "EN": "He's borderline between L5 and L6.",
+    "KR": "L5와 L6의 경계선에 있는 케이스다."
+  },
+  {
+    "EN": "I don't think she's quite promo-ready yet.",
+    "KR": "아직 승진할 준비가 완전히 된 건 아니다."
+  },
+  {
+    "EN": "He needs to show more consistency before we move him up.",
+    "KR": "승진 전에 좀 더 일관된 성과가 필요하다."
+  },
+  {
+    "EN": "The impact is there, but the leadership behaviors aren't yet consistent.",
+    "KR": "임팩트는 있으나 리더쉽 행동이 일관되지 않았다."
+  },
+  {
+    "EN": "She's grown a lot this cycle but still needs to expand her cross-org influence.",
+    "KR": "이번 사이클에 크게 성장했으나 조직 간 영향력을 좀 더 확장할 필요가 있다."
+  },
+  {
+    "EN": "Let's revisit this next cycle.",
+    "KR": "다음 싸이클에 다시 검토하자."
+  }
+]
+    },
+
+"theme2": {
+      "titles": {
+        "table_a": "표현",
+        "table_b": "예문"
+      },
+        "table_a": [
+  {
+    "EN": "scope of reponsibility",
+    "KR": "업무 범위"
+  },
+  {
+    "EN": "project complexity",
+    "KR": "프로젝트 복잡도"
+  },
+  {
+    "EN": "technical depth",
+    "KR": "기술적 깊이"
+  },
+  {
+    "EN": "business impact",
+    "KR": "비즈니스 임팩트"
+  },
+  {
+    "EN": "end-to-end ownership",
+    "KR": "처음부터 끝까지의 주도권"
+  },
+  {
+    "EN": "scaling impact",
+    "KR": "확장 가능한 영향력"
+  },
+  {
+    "EN": "org-wide impact",
+    "KR": "조직 전체에 미친 영향"
+  },
+  {
+    "EN": "cross-functional collaboration",
+    "KR": "기능 간 협업 (팀간 협업)"
+  },
+  {
+    "EN": "strategic initiatives",
+    "KR": "전략적 과제"
+  },
+  {
+    "EN": "measurable outcome",
+    "KR": "측정 가능한 결과"
+  },
+  {
+    "EN": "delivery velovity",
+    "KR": "전달 속도"
+  },
+  {
+    "EN": "execution excellence",
+    "KR": "실행 우수성"
+  },
+  {
+    "EN": "prioritatization skill",
+    "KR": "우선순위 설정 능력"
+  },
+  {
+    "EN": "resource constraints management",
+    "KR": "리소스 제약 관리능력"
+  },
+  {
+    "EN": "stakeholder management",
+    "KR": "이해관계자 관리"
+  },
+  {
+    "EN": "ambiguity handling",
+    "KR": "불확실성 처리능력"
+  },
+  {
+    "EN": "autonomy level",
+    "KR": "자율성 수준"
+  },
+  {
+    "EN": "ownership scope",
+    "KR": "주도 범위"
+  },
+  {
+    "EN": "technical contribution",
+    "KR": "기술적 기여도"
+  },
+  {
+    "EN": "innovation/ problem-solving",
+    "KR": "혁신/ 문제 해결력"
+  },
+  {
+    "EN": "trade-off decision",
+    "KR": "트레이드오프 판단력"
+  }
+],
+        "table_b": [
+  {
+    "EN": "The scope of his work is relatively narrow for his level.",
+    "KR": "현재 레벨 대비 스콥이 다소 좁다."
+  },
+  {
+    "EN": "She took on a highly complex project with significant ambiguity.",
+    "KR": "복잡도와 불확실성이 높은 프로젝트를 도맡았다."
+  },
+  {
+    "EN": "The business impact is substantial.",
+    "KR": "비즈니스 임팩트가 상당하다."
+  },
+  {
+    "EN": "He's been driving initiatives with org-wide implications.",
+    "KR": "조직 전반에 영향을 주는 프로젝트를 주도했다."
+  },
+  {
+    "EN": "Her execution quality is excellent, but the scale is still limited.",
+    "KR": "실행력은 뛰어나나 임팩트의 규모는 아직 제한적이다."
+  },
+  {
+    "EN": "He tends to focus more on delivery than strategy.",
+    "KR": "전략보다는 실행에 치중하는 경향이 있다."
+  },
+  {
+    "EN": "The project required deep technical expertise.",
+    "KR": "해당 프로젝트는 높은 기술적 전문성을 요했다."
+  },
+  {
+    "EN": "She's been leading cross-functional efforts effectively.",
+    "KR": "기능간/ 팀간 협업을 효과적으로 리드해왔다."
+  },
+  {
+    "EN": "He delivered critical results under tight constraints.",
+    "KR": "어려운 제약 조건 속에서도 핵심 결과를 냈다."
+  },
+  {
+    "EN": "We need to see more strategic thinking at this level.",
+    "KR": "이 레벨에서는 좀 더 전략적인 사고가 필요하다."
+  }
+]
+    },
+
+    "theme3": {
+      "titles": {
+        "table_a": "표현",
+        "table_b": "예문"
+      },
+        "table_a": [
+  {
+    "EN": "team cohesion",
+    "KR": "팀 결속력"
+  },
+  {
+    "EN": "culture carrier",
+    "KR": "조직 문화를 대표하는 인재"
+  },
+  {
+    "EN": "team player",
+    "KR": "협업형 인재"
+  },
+  {
+    "EN": "siloed behavior",
+    "KR": "협업 부재"
+  },
+  {
+    "EN": "cross-team alignment",
+    "KR": "팀 간 협력"
+  },
+  {
+    "EN": "collaborative mindset",
+    "KR": "협업 마인드셋"
+  },
+  {
+    "EN": "interpersonal dynamics",
+    "KR": "대인 관계 역학"
+  },
+  {
+    "EN": "conflict management",
+    "KR": "갈등 관리"
+  },
+  {
+    "EN": "consensus building",
+    "KR": "합의 도출"
+  },
+  {
+    "EN": "empathy/ active listening",
+    "KR": "공감/ 적극적 경청"
+  },
+  {
+    "EN": "communication gap",
+    "KR": "커뮤니케이션 단절"
+  },
+  {
+    "EN": "influencing without authority",
+    "KR": "권한 없는 영향력 발휘"
+  },
+  {
+    "EN": "trusted partner",
+    "KR": "신뢰받는 파트너"
+  },
+  {
+    "EN": "feedback culture",
+    "KR": "피드백 문화"
+  },
+  {
+    "EN": "mentorship/ coaching",
+    "KR": "멘토링/ 코칭"
+  },
+  {
+    "EN": "fostering inclusion",
+    "KR": "포용적 문화 조성"
+  },
+  {
+    "EN": "bridge between teams",
+    "KR": "팀 간 연결자 역할"
+  },
+  {
+    "EN": "morale booster",
+    "KR": "팀 사기 진작자"
+  },
+  {
+    "EN": "undercutting peers",
+    "KR": "동료를 깎아내리는"
+  },
+  {
+    "EN": "healthy tension",
+    "KR": "건설적인 긴장 관계"
+  }
+],
+        "table_b": [
+  {
+    "EN": "She's a strong team palyer who elevates others.",
+    "KR": "팀원들의 성과를 함께 끌어올리는 훌륭한 팀플레이어다."
+  },
+  {
+    "EN": "He builds strong cross-team relationships.",
+    "KR": "팀 간 관계구축에 능하다."
+  },
+  {
+    "EN": "She's perceived as a culture carrier on her team.",
+    "KR": "팀 내에서 조직 문화를 대표하는 인재로 인정받는다."
+  },
+  {
+    "EN": "He can sometimes be siloed in his approach.",
+    "KR": "가끔은 협업보다는 독립적으로 일하는 경향이 있다."
+  },
+  {
+    "EN": "She's been mentoring junior engineers effectively.",
+    "KR": "주니어 엔지니어들을 효과적으로 멘토링해왔다."
+  },
+  {
+    "EN": "He tends to under-communicate with stakeholders.",
+    "KR": "이해관계자와의 소통이 다소 부족한 편이다."
+  },
+  {
+    "EN": "She nevigates conflict well and brings people togther.",
+    "KR": "갈등 상황에서도 구성원들을 잘 모으고 조율한다."
+  },
+  {
+    "EN": "He's open to feedback and quick to adapt.",
+    "KR": "피드백 수용력이 좋고 빠르게 적응한다."
+  },
+  {
+    "EN": "The team looks up to her for guidance.",
+    "KR": "팀내 신뢰도가 높다."
+  },
+  {
+    "EN": "He's influencing without authority.",
+    "KR": "권한없이도 주변을 설득하고 이끌 줄 안다."
+  }
+]
+    },
+
+"theme4": {
+      "titles": {
+        "table_a": "표현",
+        "table_b": "예문"
+      },
+        "table_a": [
+  {
+    "EN": "clear communicator",
+    "KR": "명확하게 소통하는 인재"
+  },
+  {
+    "EN": "concise yet thorough",
+    "KR": "간결하나 포괄적으로 소통할 줄 아는"
+  },
+  {
+    "EN": "upward communication",
+    "KR": "상향 소통"
+  },
+  {
+    "EN": "cross-level communication",
+    "KR": "레벨 간 소통"
+  },
+  {
+    "EN": "proactive communication",
+    "KR": "선제적 소통"
+  },
+  {
+    "EN": "thought leadership",
+    "KR": "사고 리더십"
+  },
+  {
+    "EN": "data-driven communication",
+    "KR": "데이터 기반 소통"
+  },
+  {
+    "EN": "stakeholder update",
+    "KR": "이해관계자 업데이트"
+  },
+  {
+    "EN": "lack of visibility",
+    "KR": "가시성 부족"
+  },
+  {
+    "EN": "takes ownership",
+    "KR": "주도적으로 일함"
+  },
+  {
+    "EN": "follows through",
+    "KR": "끝까지 책임지고 완수함"
+  },
+  {
+    "EN": "accountability",
+    "KR": "책임감"
+  },
+  {
+    "EN": "proactive problem-solving",
+    "KR": "선제적 문제 해결"
+  },
+  {
+    "EN": "dependability",
+    "KR": "신뢰도"
+  },
+  {
+    "EN": "initiative-taking",
+    "KR": "자발적 행동력"
+  },
+  {
+    "EN": "follow-up discipline",
+    "KR": "후속조치 성실성"
+  },
+  {
+    "EN": "operational excellence",
+    "KR": "운영적 완성도"
+  },
+  {
+    "EN": "consistent delivery",
+    "KR": "일관된 결과물 제공"
+  },
+  {
+    "EN": "ownership gap",
+    "KR": "주도성 결여"
+  }
+],
+        "table_b": [
+  {
+    "EN": "She communicates clearly and proactively.",
+    "KR": "명확하고 선제적으로 커뮤니케이션한다."
+  },
+  {
+    "EN": "He need to improve his upward communication.",
+    "KR": "상사와의 커뮤니케이션에 대선이 필요하다."
+  },
+  {
+    "EN": "She ensures stakeholders are always in the loop.",
+    "KR": "이해관계자들에게 늘 상황을 공유한다."
+  },
+  {
+    "EN": "He often drops the ball on follow-ups.",
+    "KR": "후속 조치가 다소 부족한 편이다."
+  },
+  {
+    "EN": "She consistently delivers high-quality results.",
+    "KR": "일관되게 좋은 결과를 낸다."
+  },
+  {
+    "EN": "He's hightly dependable under pressure.",
+    "KR": "압박이 심한 상황에서도 신뢰할 수 있다."
+  },
+  {
+    "EN": "She takes full ownership of her work.",
+    "KR": "맡은 일에 대한 명확한 주도권과 책임감을 가지고 일한다."
+  },
+  {
+    "EN": "He's improving his prioritization skills.",
+    "KR": "업무 우선순위 설정 능력이 향상되고 있다."
+  },
+  {
+    "EN": "She's data-driven and communicates with clarity.",
+    "KR": "데이터 기반으로 명확하게 소통한다."
+  },
+  {
+    "EN": "He need to work on visibility.",
+    "KR": "자신의 성과를 더 잘 드러낼 필요가 있다."
+  }
+]
+    },
+
+    "theme5": {
+      "titles": {
+        "table_a": "표현",
+        "table_b": "예문"
+      },
+        "table_a": [
+  {
+    "EN": "learning agility",
+    "KR": "학습 민첩성/ 빠른 학습력"
+  },
+  {
+    "EN": "growth mindset",
+    "KR": "성장 마인드셋"
+  },
+  {
+    "EN": "self-driven development",
+    "KR": "자기 주도적 성장"
+  },
+  {
+    "EN": "open to feedback",
+    "KR": "피드백 수용력"
+  },
+  {
+    "EN": "coachability",
+    "KR": "코칭 수용력"
+  },
+  {
+    "EN": "adaptability/ flexibility",
+    "KR": "적응력/ 유연성"
+  },
+  {
+    "EN": "stretch assignment",
+    "KR": "도전 과제"
+  },
+  {
+    "EN": "demonstrate growth",
+    "KR": "성장 증명"
+  },
+  {
+    "EN": "careet trajectory",
+    "KR": "커리어 궤적"
+  },
+  {
+    "EN": "potential to scale",
+    "KR": "확장 가능성"
+  },
+  {
+    "EN": "succession potential",
+    "KR": "차세대 리더 후보군"
+  },
+  {
+    "EN": "readiness for next level",
+    "KR": "다음 레벨 준비도"
+  },
+  {
+    "EN": "plateaued performance",
+    "KR": "성장이 정체된"
+  },
+  {
+    "EN": "needs more exposure",
+    "KR": "경험 확대 필요/ 노출 필요"
+  },
+  {
+    "EN": "under-leveraged skillset",
+    "KR": "역량이 충분히 활용되지 않음"
+  },
+  {
+    "EN": "eager to learn",
+    "KR": "학습 의지가 높음"
+  },
+  {
+    "EN": "proactive learner",
+    "KR": "능동적 학습자"
+  },
+  {
+    "EN": "steep learning curve",
+    "KR": "학습 곡선이 가파름"
+  },
+  {
+    "EN": "self-reflective",
+    "KR": "자기 성찰형 인재"
+  }
+],
+        "table_b": [
+  {
+    "EN": "She's demonstrated strong learning agility.",
+    "KR": "빠르게 학습한다."
+  },
+  {
+    "EN": "He's shown tremendous growth this cycle.",
+    "KR": "이번 사이클에서 큰 성장세를 보였다."
+  },
+  {
+    "EN": "She's coachable and open to feedback.",
+    "KR": "피드백에 열려있는 인재다."
+  },
+  {
+    "EN": "He's plateaued a bit compared to last year.",
+    "KR": "작년 대비 성장세가 다소 정체되었다."
+  },
+  {
+    "EN": "She's eager to take on strech assignments.",
+    "KR": "도전적인 과제를 기꺼이 맡으려는 자세를 보인다."
+  },
+  {
+    "EN": "He's development his leadership skill steadily.",
+    "KR": "리더십 역량을 꾸준히 개발하고 있다."
+  },
+  {
+    "EN": "She has strong potential to scale into a people manager role.",
+    "KR": "향후 매니저 역할로 성장할 잠재력이 크다."
+  },
+  {
+    "EN": "He's not leverating his full potential yet.",
+    "KR": "본인의 잠재력을 아직 충분히 발휘하지 못하고 있다."
+  },
+  {
+    "EN": "She learns quickly and applies feedback effectively.",
+    "KR": "빠르게 배우고 피드백도 잘 적용한다."
+  },
+  {
+    "EN": "He's still eager in his development curve.",
+    "KR": "아직 성장 곡선의 초입단계에 있다."
+  }
+]
+    },
+
+    "theme6": {
+      "titles": {
+        "table_a": "표현",
+        "table_b": "예문"
+      },
+        "table_a": [
+  {
+    "EN": "calibrate across teams",
+    "KR": "팀간 일관된 평가"
+  },
+  {
+    "EN": "align on the bar",
+    "KR": "기준선을 맞추다"
+  },
+  {
+    "EN": "inflated rating",
+    "KR": "과한 평점/ 고과"
+  },
+  {
+    "EN": "under-leveled",
+    "KR": "레벨 과소 책정됨"
+  },
+  {
+    "EN": "borderline case",
+    "KR": "경계선 케이스"
+  },
+  {
+    "EN": "edge case",
+    "KR": "예외적 케이스"
+  },
+  {
+    "EN": "promo-ready profile",
+    "KR": "승진에 적합한 프로필"
+  },
+  {
+    "EN": "not yet at  promo bar",
+    "KR": "승진 기준에 못미침"
+  },
+  {
+    "EN": "need more concrete examples",
+    "KR": "구체적 사례 필요"
+  },
+  {
+    "EN": "comparison across peers",
+    "KR": "동료들과의 비교"
+  },
+  {
+    "EN": "anchored bias",
+    "KR": "고정 편향"
+  },
+  {
+    "EN": "recency bias",
+    "KR": "최근 성과 평향"
+  },
+  {
+    "EN": "halo effect",
+    "KR": "후광 효과"
+  },
+  {
+    "EN": "need to remove bias",
+    "KR": "편향 제거 필요"
+  },
+  {
+    "EN": "ensure fairness/ consistency",
+    "KR": "공정성과 일관성 확보"
+  },
+  {
+    "EN": "promotion justification",
+    "KR": "승진 사유"
+  },
+  {
+    "EN": "leveling discussion",
+    "KR": "레벨 논의"
+  },
+  {
+    "EN": "evidence-based calibration",
+    "KR": "근거 기반 조율"
+  },
+  {
+    "EN": "close the loop after calibaration",
+    "KR": "조율 이후 피드백 마무리"
+  }
+],
+        "table_b": [
+  {
+    "EN": "Can we pull up the evidence doc for this person?",
+    "KR": "이 분 성과에 대한 증빙 자료를 확인해볼 수 있을까요?"
+  },
+  {
+    "EN": "I think we need to re-anchor this discussion.",
+    "KR": "기준점을 다시 잡을 필요가 있다."
+  },
+  {
+    "EN": "Let's park this one for now and come back later.",
+    "KR": "일단 보류하고 나중에 다시 논의하자."
+  },
+  {
+    "EN": "I'm not fully convinced yet.",
+    "KR": "아직 완전히 납득되지는 않는다."
+  },
+  {
+    "EN": "That seems like a stretch rating to me.",
+    "KR": "평가가 다소 과하게 느껴진다."
+  },
+  {
+    "EN": "I'd like to hear from another manager who worked closely with him.",
+    "KR": "함께 일한 다른 매니저들의 의견도 들어보고자 한다."
+  },
+  {
+    "EN": "Let's align before finalizing the rating.",
+    "KR": "평점  확정 전에 의견을 일치시키자."
+  },
+  {
+    "EN": "Are we considering scope or impact more heavily here?",
+    "KR": "스콥과 임팩드 중 어느쪽에 더 무게를 두고 평가할것인가."
+  }
+]
+    },
+
+"theme7": {
+      "titles": {
+        "table_a": "표현"
+      },
+        "table_a": [
+  {
+    "EN": "Needs more time at current level",
+    "KR": "현 레벨에서의 성장을 좀 더 지켜봐야 할듯."
+  },
+  {
+    "EN": "Still developing in this area",
+    "KR": "이 부분은 아직 개발 중임."
+  },
+  {
+    "EN": "On the cusp",
+    "KR": "승진 경계에 있는 케이스 입니다."
+  },
+  {
+    "EN": "May not have enough evidence yet",
+    "KR": "아직 근거가 충분히 쌓이지 않았음."
+  },
+  {
+    "EN": "We should revisit next cycle",
+    "KR": "다음 사이클에서 재검토 하자."
+  },
+  {
+    "EN": "Solid performer",
+    "KR": "안정적 성과자 입니다."
+  },
+  {
+    "EN": "Strong trajectory",
+    "KR": "성장 곡선이 좋다."
+  },
+  {
+    "EN": "I'm not fully convinced yet",
+    "KR": "아직 확신이 서진 않는다"
+  },
+  {
+    "EN": "This feels early",
+    "KR": "시기상 조금 이르다."
+  },
+  {
+    "EN": "She's getting there.",
+    "KR": "점점 그 단계에 이르고 있다."
+  },
+  {
+    "EN": "mutual separation",
+    "KR": "상호 합의로 퇴사"
+  },
+  {
+    "EN": "mutual departure",
+    "KR": "상호 협의에 의한 퇴사"
+  },
+  {
+    "EN": "voluntary separation",
+    "KR": "자발적 퇴사"
+  },
+  {
+    "EN": "separation agreement",
+    "KR": "퇴사 합의서"
+  },
+  {
+    "EN": "separation package",
+    "KR": "퇴사 보상 패키지"
+  },
+  {
+    "EN": "separation date",
+    "KR": "퇴사 처리 날짜"
+  },
+  {
+    "EN": "Performance concerns",
+    "KR": "성과 관련 우려"
+  },
+  {
+    "EN": "Not meeting expectations",
+    "KR": "기대치 미달"
+  },
+  {
+    "EN": "underperformance",
+    "KR": "저성과"
+  },
+  {
+    "EN": "ongoing performance issues",
+    "KR": "지속적인 성과문제"
+  },
+  {
+    "EN": "Perfomance improvement needed",
+    "KR": "성과 개선 필요"
+  },
+  {
+    "EN": "not a fit for the role",
+    "KR": "역할에 적합치 않음"
+  },
+  {
+    "EN": "not meeting role expectations",
+    "KR": "역할 기대에 부합치 않음"
+  },
+  {
+    "EN": "persistent gaps",
+    "KR": "지속적 역량 격차"
+  },
+  {
+    "EN": "limited progress",
+    "KR": "개선이 제한적임"
+  },
+  {
+    "EN": "not progressing as expected",
+    "KR": "기대만큼 성장하지 못함"
+  },
+  {
+    "EN": "restructuring",
+    "KR": "조직 개편"
+  },
+  {
+    "EN": "reorganization",
+    "KR": "조직 재편성"
+  },
+  {
+    "EN": "Organizational changes",
+    "KR": "조직 변경"
+  },
+  {
+    "EN": "workforce reduction",
+    "KR": "인력감축"
+  },
+  {
+    "EN": "reduction in force (RIF)",
+    "KR": "정리해고"
+  },
+  {
+    "EN": "rightsizing",
+    "KR": "적정규모조정"
+  },
+  {
+    "EN": "streamlining the org",
+    "KR": "조직 슬림화"
+  },
+  {
+    "EN": "position eliminated",
+    "KR": "직무가 폐지됨"
+  },
+  {
+    "EN": "role redundancy",
+    "KR": "중복 역할"
+  },
+  {
+    "EN": "eliminated due to redundancy",
+    "KR": "중복 인력으로 직무 폐지"
+  },
+  {
+    "EN": "structural dedundancy",
+    "KR": "구조적 중복"
+  },
+  {
+    "EN": "termination of emploment",
+    "KR": "고용관계 종료"
+  },
+  {
+    "EN": "involuntary separtion",
+    "KR": "비자발적 퇴사"
+  },
+  {
+    "EN": "separated form the company",
+    "KR": "퇴사처리 됨"
+  },
+  {
+    "EN": "employment ended",
+    "KR": "고용 관계가 종료됨"
+  },
+  {
+    "EN": "transitioned out",
+    "KR": "이동이 있었음"
+  },
+  {
+    "EN": "asked to leave",
+    "KR": "퇴사를 요청받음"
+  },
+  {
+    "EN": "exited the org",
+    "KR": "조직에서 떠났음"
+  },
+  {
+    "EN": "Performance Improvement Plan",
+    "KR": "성과계선계획"
+  },
+  {
+    "EN": "Coaching period",
+    "KR": "코칭 기간"
+  },
+  {
+    "EN": "guided improvement period",
+    "KR": "개선 유도 기간"
+  },
+  {
+    "EN": "formal performance review",
+    "KR": "공식 성과 검토"
+  },
+  {
+    "EN": "corrective action",
+    "KR": "시정 조치"
+  },
+  {
+    "EN": "support plan",
+    "KR": "지원 계획"
+  },
+  {
+    "EN": "documented feedbakc",
+    "KR": "문서화된 피드백"
+  },
+  {
+    "EN": "performance monitoring",
+    "KR": "성과 모니터링"
+  },
+  {
+    "EN": "insufficient improvement",
+    "KR": "개선이 충분치 않음"
+  },
+  {
+    "EN": "contract not renewed",
+    "KR": "계약이 갱신되지 않음"
+  },
+  {
+    "EN": "end of contract period",
+    "KR": "계약 기간 만료"
+  },
+  {
+    "EN": "non-renewal notice",
+    "KR": "계약 갱신 불가 통보"
+  },
+  {
+    "EN": "transition out after contract",
+    "KR": "계약 종료 후 퇴사 처리"
+  },
+  {
+    "EN": "converted to full-time",
+    "KR": "정규직 전환됨"
+  },
+  {
+    "EN": "not converted to full-time",
+    "KR": "적규직 전환되지 않음"
+  },
+  {
+    "EN": "HR investigation",
+    "KR": "HR 조사"
+  },
+  {
+    "EN": "Fact-finding",
+    "KR": "사실 확인 절차"
+  },
+  {
+    "EN": "policy violation",
+    "KR": "정책 위반"
+  },
+  {
+    "EN": "code of conduct violation",
+    "KR": "행동 강령 위반"
+  },
+  {
+    "EN": "corrective measure",
+    "KR": "시정 조치"
+  },
+  {
+    "EN": "severance package",
+    "KR": "퇴직 보상 패키지"
+  },
+  {
+    "EN": "exit interview",
+    "KR": "퇴사 인터뷰"
+  },
+  {
+    "EN": "notice period",
+    "KR": "퇴사 통보 기간"
+  },
+  {
+    "EN": "final paycheck",
+    "KR": "최종 급여"
+  },
+  {
+    "EN": "eligibility for rehire",
+    "KR": "재입사 가능 여부"
+  }
+]
+    },
+
+    "theme8": {
+        "titles": {
+            "sub_1": "L4",
+            "sub_2": "L5",
+            "sub_3": "L6",
+            "sub_4": "Manager",
+            "sub_5": "Director"
+        },
+        "sub_1": [
+  {
+    "EN": "Still ramping up, but showing good progress.",
+    "KR": "아직 적응중이나 빠르게 성장중이다."
+  },
+  {
+    "EN": "Needs more support to operate independently.",
+    "KR": "독립적으로 일하려면 아직 서포트가 필요하다."
+  },
+  {
+    "EN": "Learning curve has been steep, and they're handling it well.",
+    "KR": "가파른 학습세를 잘 따라가고 있다."
+  },
+  {
+    "EN": "Execution is solid once direction is provided.",
+    "KR": "방향이 주어지면 실행은 안정적으로 해난다."
+  },
+  {
+    "EN": "Needs more confidence in taking ownership.",
+    "KR": "주도적으로 일하는데에 자신감이 더 필요하다."
+  },
+  {
+    "EN": "Starting to show initiative beyond assigned tasks.",
+    "KR": "주어진 일 외에도 스스로 움직이기 시작했다."
+  },
+  {
+    "EN": "Still development judgement uder ambiguity.",
+    "KR": "불확실한 상황에서의 판단력은 아직 개발 중이다."
+  },
+  {
+    "EN": "Delivers high-quality work but needs help with prioritization.",
+    "KR": "결과물 자체는 좋으나 우선순위 설정에 도움이 필요하다."
+  },
+  {
+    "EN": "Very receptive to feedback and quick to improve.",
+    "KR": "피드백을 잘 수용하고 빠르게 개선한다."
+  },
+  {
+    "EN": "Has potential to grow into a solid L5 next cycle.",
+    "KR": "다음 사이클에는 l5로 성장할 잠재력이 있다."
+  },
+  {
+    "EN": "Consistent delivers end-to-end with minimal supervision.",
+    "KR": "최소한의 개입으로 과제를 E2E 로 직접 수행한다."
+  },
+  {
+    "EN": "Demonstrates strong ownership and accountability.",
+    "KR": "주도성과 책임감을 꾸준히 보여준다."
+  },
+  {
+    "EN": "Starting to influence peers beyond their immediate team.",
+    "KR": "소속팀을 넘어 타팀에도 영향력을 미치기 시작했다."
+  },
+  {
+    "EN": "Scope is appropriate for L4, but not yet scaling.",
+    "KR": "스콥은 L4 수준에 적절하나 아직 확장할 단계는 아니다."
+  },
+  {
+    "EN": "Handles complexity well and manages trade-offs effectively.",
+    "KR": "복잡한 문제를 잘 다루고 트레이드오프를 효과적으로 관리한다."
+  },
+  {
+    "EN": "Sometimes needs to communicate status more proactively.",
+    "KR": "진행 상황을 좀 더 선제적으로 공유할 필요가 있다."
+  },
+  {
+    "EN": "Reliable and dependable under pressure.",
+    "KR": "압박 상황에서도 신뢰할 수 있는 사람이다."
+  },
+  {
+    "EN": "Collaborate well across functions.",
+    "KR": "기능간/ 팀 간 협업을 원활히 수행한다."
+  },
+  {
+    "EN": "Demonstrates solid technical understanding.",
+    "KR": "기술적 이해도가 탄탄하다."
+  },
+  {
+    "EN": "Ready for L5 once scope broadens and influence grows.",
+    "KR": "스콥과 영향력이 확장되면 L5 승진이 가능할 것."
+  }
+],
+        "sub_2": [
+  {
+    "EN": "Operating at a senior level with broad influence.",
+    "KR": "팀 내에서 시니어급 영향력을 발휘하고 있다."
+  },
+  {
+    "EN": "Drives complex initiatives independently.",
+    "KR": "복잡한 과제를 독립적으로 주도한다."
+  },
+  {
+    "EN": "Acts as a go-to person in their domain.",
+    "KR": "도메인 내에서 핵심 담당자 역할을 하다."
+  },
+  {
+    "EN": "Demonstrates strong technical leadership.",
+    "KR": "기술적 리더십이 강하다."
+  },
+  {
+    "EN": "Cross-org collaboration has been impactful.",
+    "KR": "조직 간 협업에서 눈에 띄는 임팩트를 내다."
+  },
+  {
+    "EN": "Mentors junior engineers effectively.",
+    "KR": "주니어 엔지니어들을 효과적으로 멘토링하다."
+  },
+  {
+    "EN": "Needs to delegate more to scale impact.",
+    "KR": "임팩트 확장을 위해서는 과제를 좀 더 위임해야 한다."
+  },
+  {
+    "EN": "Sometimes over-indexes on execution, less on strategy.",
+    "KR": "실행에만 치중하는 경향이 있어 전략적 시야 확장이 필요하다."
+  },
+  {
+    "EN": "Consistently exceeds expectations in delivery and ownership.",
+    "KR": "결과물과 오너십 측면에서 기대를 꾸준히 초과달성한다."
+  },
+  {
+    "EN": "The impact was strong, but need a more strategic lens.",
+    "KR": "임팩트는 있었지만 전략적 시야를 좀 더 갖춰야합니다."
+  },
+  {
+    "EN": "Promo-ready for L6 pending broader scope validation.",
+    "KR": "스콥 확장만 입증되면 L6승진이 가능하다."
+  }
+],
+        "sub_3": [
+  {
+    "EN": "Operates as an org-level technical leader.",
+    "KR": "조직 레벨의 기술적 리더 역할을 하다."
+  },
+  {
+    "EN": "Sets technical direction for multiple teams.",
+    "KR": "여러 팀의 기술 방향성을 잡는다"
+  },
+  {
+    "EN": "Drives alignment across orgs with strategic influence.",
+    "KR": "전략적 영향력을 통해 조직간 의견 합치를 주도하다."
+  },
+  {
+    "EN": "Impact consistently scales beyond immediate org.",
+    "KR": "임팩트가 소속 조직을 넘어 확장되고 있다."
+  },
+  {
+    "EN": "Partners effectively with product and business leaders.",
+    "KR": "프로덕트 및 비즈니스 리더들과 효과적으로 협업하다."
+  },
+  {
+    "EN": "Provides mentorship across multiple teams.",
+    "KR": "여러 팀에 걸쳐 멘토십을 보여주다."
+  },
+  {
+    "EN": "Operates autonomously under high ambiguity.",
+    "KR": "높은 불확실성 속에서도 자율적으로 일하다."
+  },
+  {
+    "EN": "Sometimes needs to balance strategic and hands-on work.",
+    "KR": "전략과 실행력 사이의 밸런스 조정이 필요할 떄가 있다."
+  },
+  {
+    "EN": "Potential successor for Director-level role.",
+    "KR": "차기 디렉터 후보로 고려될 수 있다."
+  }
+],
+        "sub_4": [
+  {
+    "EN": "Balances delivery with people development.",
+    "KR": "성과와 인재 육성을 균형 있게 관리한다."
+  },
+  {
+    "EN": "Bulids high-performing teams through coaching and feedback.",
+    "KR": "고칭과 피드백을 통해 고성과 팀을 꾸린다."
+  },
+  {
+    "EN": "Ensures clarity and alignment within the team.",
+    "KR": "팀 내 명확한 방향성을 유지한다."
+  },
+  {
+    "EN": "Demonstrates strong leadership presence.",
+    "KR": "리더십 존재감이 강력하다."
+  },
+  {
+    "EN": "Needs to delegate more effectively.",
+    "KR": "업무 위임을 좀 더 효과적으로 할 필요가 있다."
+  },
+  {
+    "EN": "Sometimes too deep in the weeds.",
+    "KR": "세부적인 실행에 과하게 개입하는 경우가 있다."
+  },
+  {
+    "EN": "Creates psychological safety within the team.",
+    "KR": "팀 내 심리적 안정감을 조성한다."
+  },
+  {
+    "EN": "Manages udnerperformance appropriately.",
+    "KR": "저성과자 관리에 적절히 대응한다."
+  },
+  {
+    "EN": "Provides actionable and timely feedback.",
+    "KR": "실행 가능한 피드백을 적시에 제공한다."
+  },
+  {
+    "EN": "Needs to scale management skills for a larger scope.",
+    "KR": "더 큰 조직을 리드할 수 있도록 매니지먼트 역량 확장이 필요하다."
+  }
+],
+        "sub_5": [
+  {
+    "EN": "Operates at a multi-org scale with clear strategic vision.",
+    "KR": "여러 조직 단위에서 전략적 비전을 제시하다."
+  },
+  {
+    "EN": "Drives alignment between product, engineering, and business.",
+    "KR": "프로덕트, 엔지니어링, 비즈니스 간 방향을 맞출 수 있다."
+  },
+  {
+    "EN": "Develops the next layer of leadership effectively.",
+    "KR": "차세대 리더를 효과적으로 육성한다."
+  },
+  {
+    "EN": "Demonstrates strong organizational judgement.",
+    "KR": "조직적 판단력이 탁월하다."
+  },
+  {
+    "EN": "Shapes long-term strategy and execution plans.",
+    "KR": "장기 전략과 실행 계획을 설계하다."
+  },
+  {
+    "EN": "Acts as a key culture builder within the org.",
+    "KR": "조직 내 핵심 문화를 구축하는 역할을 한다."
+  },
+  {
+    "EN": "Balances short-team deliver with long-term growth.",
+    "KR": "단기 성과와 장기 성장을 균형있게 관리한다."
+  },
+  {
+    "EN": "Needs to strengthen succssion planning.",
+    "KR": "리더십 파이프라인을 강화할 필요가 있다."
+  },
+  {
+    "EN": "Influences across funtions at VP-level visibility.",
+    "KR": "VP 레벨에서 조직 간 영향력을 발휘하다."
+  },
+  {
+    "EN": "Sets the tone for leadership and excellence.",
+    "KR": "리더십과 실행 우수성의 기준을 제시하다."
+  }
+]
+    }
+}
