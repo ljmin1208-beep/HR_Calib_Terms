@@ -14,7 +14,7 @@
     "KR": "베이스볼카드 (직원성과요약/ 프로필)"
   },
   {
-    "EN": "employment engagement",
+    "EN": "employee engagement",
     "KR": "직원 몰입도"
   },
   {
@@ -98,7 +98,7 @@
     "KR": "상대 비교 평가 (순위)"
   },
   {
-    "EN": "high potentail",
+    "EN": "high potential",
     "KR": "성장 잠재력이 높은 인재"
   },
   {
@@ -141,14 +141,14 @@
   },
   {
     "EN": "This rating feels a bit inflated given the scope.",
-    "KR": "스폽을 고려했을때 평점이 다소 높게 느껴진다."
+    "KR": "스콥을 고려했을때 평점이 다소 높게 느껴진다."
   },
   {
     "EN": "We might be under-leveling this person.",
     "KR": "레벨이 다소 낮게 매겨진 것 같다."
   },
   {
-    "EN": "Let's check if their impact truly scales beyong their current role.",
+    "EN": "Let's check if their impact truly scales beyond their current role.",
     "KR": "현재 역할을 넘어선 임팩트를 냈는지 확인해보자."
   },
   {
@@ -156,7 +156,7 @@
     "KR": "비슷한 직무의 다른 직원과 일관된 평가 기준으로 평가받고 있는가?"
   },
   {
-    "EN": "I'd like to anchor this discuttion around the core competencies for this level.",
+    "EN": "I'd like to anchor this discussion around the core competencies for this level.",
     "KR": "이 레벨의 핵심 역량을 기준으로 논의하고자 한다."
   },
   {
@@ -168,11 +168,11 @@
     "KR": "이 평점을 뒷받침할 구제적인 근거가 필요하다."
   },
   {
-    "EN": "He's operating weel above his current level.",
+    "EN": "He's operating well above his current level.",
     "KR": "현재 레벨을 훨씬 상회하는 퍼포먼스를 보여주고 있다."
   },
   {
-    "EN": "She's already funcioning at the next level in terms of scope and ownership.",
+    "EN": "She's already functioning at the next level in terms of scope and ownership.",
     "KR": "스콥이나 오너십 측면에서 이미 다음 레벨 수준으로 일하고 있다."
   },
   {
@@ -180,7 +180,7 @@
     "KR": "시니어급 영향력을 꾸준히 보여주고 있다."
   },
   {
-    "EN": "She's ready for the next step; the growht trajectory is clear.",
+    "EN": "She's ready for the next step; the growth trajectory is clear.",
     "KR": "다음 단계로 갈 준비가 되어있고 성장 궤적이 명확하다."
   },
   {
@@ -217,7 +217,7 @@
       },
         "table_a": [
   {
-    "EN": "scope of reponsibility",
+    "EN": "scope of responsibility",
     "KR": "업무 범위"
   },
   {
@@ -257,7 +257,7 @@
     "KR": "측정 가능한 결과"
   },
   {
-    "EN": "delivery velovity",
+    "EN": "delivery velocity",
     "KR": "전달 속도"
   },
   {
@@ -265,7 +265,7 @@
     "KR": "실행 우수성"
   },
   {
-    "EN": "prioritatization skill",
+    "EN": "prioritization skill",
     "KR": "우선순위 설정 능력"
   },
   {
@@ -434,7 +434,7 @@
 ],
         "table_b": [
   {
-    "EN": "She's a strong team palyer who elevates others.",
+    "EN": "She's a strong team player who elevates others.",
     "KR": "팀원들의 성과를 함께 끌어올리는 훌륭한 팀플레이어다."
   },
   {
@@ -458,7 +458,7 @@
     "KR": "이해관계자와의 소통이 다소 부족한 편이다."
   },
   {
-    "EN": "She nevigates conflict well and brings people togther.",
+    "EN": "She navigates conflict well and brings people together.",
     "KR": "갈등 상황에서도 구성원들을 잘 모으고 조율한다."
   },
   {
@@ -565,8 +565,8 @@
     "KR": "명확하고 선제적으로 커뮤니케이션한다."
   },
   {
-    "EN": "He need to improve his upward communication.",
-    "KR": "상사와의 커뮤니케이션에 대선이 필요하다."
+    "EN": "He needs to improve his upward communication.",
+    "KR": "상사와의 커뮤니케이션에 개선이 필요하다."
   },
   {
     "EN": "She ensures stakeholders are always in the loop.",
@@ -581,7 +581,7 @@
     "KR": "일관되게 좋은 결과를 낸다."
   },
   {
-    "EN": "He's hightly dependable under pressure.",
+    "EN": "He's highly dependable under pressure.",
     "KR": "압박이 심한 상황에서도 신뢰할 수 있다."
   },
   {
@@ -597,7 +597,7 @@
     "KR": "데이터 기반으로 명확하게 소통한다."
   },
   {
-    "EN": "He need to work on visibility.",
+    "EN": "He needs to work on visibility.",
     "KR": "자신의 성과를 더 잘 드러낼 필요가 있다."
   }
 ]
@@ -642,7 +642,7 @@
     "KR": "성장 증명"
   },
   {
-    "EN": "careet trajectory",
+    "EN": "career trajectory",
     "KR": "커리어 궤적"
   },
   {
@@ -704,11 +704,11 @@
     "KR": "작년 대비 성장세가 다소 정체되었다."
   },
   {
-    "EN": "She's eager to take on strech assignments.",
+    "EN": "She's eager to take on stretch assignments.",
     "KR": "도전적인 과제를 기꺼이 맡으려는 자세를 보인다."
   },
   {
-    "EN": "He's development his leadership skill steadily.",
+    "EN": "He's developing his leadership skill steadily.",
     "KR": "리더십 역량을 꾸준히 개발하고 있다."
   },
   {
@@ -716,7 +716,7 @@
     "KR": "향후 매니저 역할로 성장할 잠재력이 크다."
   },
   {
-    "EN": "He's not leverating his full potential yet.",
+    "EN": "He's not leveraging his full potential yet.",
     "KR": "본인의 잠재력을 아직 충분히 발휘하지 못하고 있다."
   },
   {
@@ -724,7 +724,7 @@
     "KR": "빠르게 배우고 피드백도 잘 적용한다."
   },
   {
-    "EN": "He's still eager in his development curve.",
+    "EN": "He's still early in his development curve.",
     "KR": "아직 성장 곡선의 초입단계에 있다."
   }
 ]
@@ -765,7 +765,7 @@
     "KR": "승진에 적합한 프로필"
   },
   {
-    "EN": "not yet at  promo bar",
+    "EN": "not yet at promo bar",
     "KR": "승진 기준에 못미침"
   },
   {
@@ -809,7 +809,7 @@
     "KR": "근거 기반 조율"
   },
   {
-    "EN": "close the loop after calibaration",
+    "EN": "close the loop after calibration",
     "KR": "조율 이후 피드백 마무리"
   }
 ],
@@ -840,7 +840,7 @@
   },
   {
     "EN": "Let's align before finalizing the rating.",
-    "KR": "평점  확정 전에 의견을 일치시키자."
+    "KR": "평점 확정 전에 의견을 일치시키자."
   },
   {
     "EN": "Are we considering scope or impact more heavily here?",
@@ -876,7 +876,7 @@
   },
   {
     "EN": "Solid performer",
-    "KR": "안정적 성과자 입니다."
+    "KR": "안정적 성과자."
   },
   {
     "EN": "Strong trajectory",
@@ -900,7 +900,7 @@
   },
   {
     "EN": "mutual departure",
-    "KR": "상호 협의에 의한 퇴사"
+    "KR": "상호 합의에 의한 퇴사"
   },
   {
     "EN": "voluntary separation",
@@ -935,7 +935,7 @@
     "KR": "지속적인 성과문제"
   },
   {
-    "EN": "Perfomance improvement needed",
+    "EN": "Performance improvement needed",
     "KR": "성과 개선 필요"
   },
   {
@@ -967,7 +967,7 @@
     "KR": "조직 재편성"
   },
   {
-    "EN": "Organizational changes",
+    "EN": "organizational changes",
     "KR": "조직 변경"
   },
   {
@@ -999,19 +999,19 @@
     "KR": "중복 인력으로 직무 폐지"
   },
   {
-    "EN": "structural dedundancy",
+    "EN": "structural redundancy",
     "KR": "구조적 중복"
   },
   {
-    "EN": "termination of emploment",
+    "EN": "termination of employment",
     "KR": "고용관계 종료"
   },
   {
-    "EN": "involuntary separtion",
+    "EN": "involuntary separation",
     "KR": "비자발적 퇴사"
   },
   {
-    "EN": "separated form the company",
+    "EN": "separated from the company",
     "KR": "퇴사처리 됨"
   },
   {
@@ -1035,7 +1035,7 @@
     "KR": "성과계선계획"
   },
   {
-    "EN": "Coaching period",
+    "EN": "coaching period",
     "KR": "코칭 기간"
   },
   {
@@ -1047,7 +1047,7 @@
     "KR": "공식 성과 검토"
   },
   {
-    "EN": "corrective action",
+    "EN": "corrective action/ measure",
     "KR": "시정 조치"
   },
   {
@@ -1055,7 +1055,7 @@
     "KR": "지원 계획"
   },
   {
-    "EN": "documented feedbakc",
+    "EN": "documented feedback",
     "KR": "문서화된 피드백"
   },
   {
@@ -1088,14 +1088,14 @@
   },
   {
     "EN": "not converted to full-time",
-    "KR": "적규직 전환되지 않음"
+    "KR": "정규직 전환되지 않음"
   },
   {
     "EN": "HR investigation",
     "KR": "HR 조사"
   },
   {
-    "EN": "Fact-finding",
+    "EN": "fact-finding",
     "KR": "사실 확인 절차"
   },
   {
@@ -1105,10 +1105,6 @@
   {
     "EN": "code of conduct violation",
     "KR": "행동 강령 위반"
-  },
-  {
-    "EN": "corrective measure",
-    "KR": "시정 조치"
   },
   {
     "EN": "severance package",
@@ -1156,7 +1152,7 @@
   },
   {
     "EN": "Execution is solid once direction is provided.",
-    "KR": "방향이 주어지면 실행은 안정적으로 해난다."
+    "KR": "방향이 주어지면 실행은 안정적으로 해낸다."
   },
   {
     "EN": "Needs more confidence in taking ownership.",
@@ -1167,7 +1163,7 @@
     "KR": "주어진 일 외에도 스스로 움직이기 시작했다."
   },
   {
-    "EN": "Still development judgement uder ambiguity.",
+    "EN": "Still developing judgement under ambiguity.",
     "KR": "불확실한 상황에서의 판단력은 아직 개발 중이다."
   },
   {
@@ -1183,7 +1179,7 @@
     "KR": "다음 사이클에는 l5로 성장할 잠재력이 있다."
   },
   {
-    "EN": "Consistent delivers end-to-end with minimal supervision.",
+    "EN": "Consistently delivers end-to-end with minimal supervision.",
     "KR": "최소한의 개입으로 과제를 E2E 로 직접 수행한다."
   },
   {
@@ -1300,7 +1296,7 @@
   },
   {
     "EN": "Sometimes needs to balance strategic and hands-on work.",
-    "KR": "전략과 실행력 사이의 밸런스 조정이 필요할 떄가 있다."
+    "KR": "전략과 실행력 사이의 밸런스 조정이 필요할 때가 있다."
   },
   {
     "EN": "Potential successor for Director-level role.",
@@ -1313,7 +1309,7 @@
     "KR": "성과와 인재 육성을 균형 있게 관리한다."
   },
   {
-    "EN": "Bulids high-performing teams through coaching and feedback.",
+    "EN": "Builds high-performing teams through coaching and feedback.",
     "KR": "고칭과 피드백을 통해 고성과 팀을 꾸린다."
   },
   {
@@ -1337,7 +1333,7 @@
     "KR": "팀 내 심리적 안정감을 조성한다."
   },
   {
-    "EN": "Manages udnerperformance appropriately.",
+    "EN": "Manages underperformance appropriately.",
     "KR": "저성과자 관리에 적절히 대응한다."
   },
   {
@@ -1363,7 +1359,7 @@
     "KR": "차세대 리더를 효과적으로 육성한다."
   },
   {
-    "EN": "Demonstrates strong organizational judgement.",
+    "EN": "Demonstrates strong organizational judgment.",
     "KR": "조직적 판단력이 탁월하다."
   },
   {
@@ -1375,15 +1371,15 @@
     "KR": "조직 내 핵심 문화를 구축하는 역할을 한다."
   },
   {
-    "EN": "Balances short-team deliver with long-term growth.",
+    "EN": "Balances short-term delivery with long-term growth.",
     "KR": "단기 성과와 장기 성장을 균형있게 관리한다."
   },
   {
-    "EN": "Needs to strengthen succssion planning.",
+    "EN": "Needs to strengthen succession planning.",
     "KR": "리더십 파이프라인을 강화할 필요가 있다."
   },
   {
-    "EN": "Influences across funtions at VP-level visibility.",
+    "EN": "Influences across functions at VP-level visibility.",
     "KR": "VP 레벨에서 조직 간 영향력을 발휘하다."
   },
   {
