@@ -24,6 +24,11 @@ h1 {
     transition: background-color 0.3s;
     /* 크롬 탭 관련 스타일 모두 제거 */
 }
+
+.tab-button:hover {
+    background-color: #E8ECF3;
+}
+
 .tab-button.active {
     background-color: rgba(0, 123, 255, 0.8); /* 투명도 적용 */
     color: white;
