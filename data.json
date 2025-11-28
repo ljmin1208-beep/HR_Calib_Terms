@@ -851,16 +851,16 @@
 
 "theme7": {
       "titles": {
-        "table_a": "표현"
+        "table_a": "표현 및 subtext"
       },
         "table_a": [
   {
     "EN": "Needs more time at current level",
-    "KR": "현 레벨에서의 성장을 좀 더 지켜봐야 할듯."
+    "KR": "현 레벨에서의 성장을 좀 더 지켜봐야 할듯. (이번에 프모 어려움)"
   },
   {
     "EN": "Still developing in this area",
-    "KR": "이 부분은 아직 개발 중임."
+    "KR": "이 부분은 아직 개발 중임. (아직 부족함)"
   },
   {
     "EN": "On the cusp",
@@ -868,31 +868,31 @@
   },
   {
     "EN": "May not have enough evidence yet",
-    "KR": "아직 근거가 충분히 쌓이지 않았음."
+    "KR": "아직 근거가 충분히 쌓이지 않았음. (유보)"
   },
   {
     "EN": "We should revisit next cycle",
-    "KR": "다음 사이클에서 재검토 하자."
+    "KR": "다음 사이클에서 재검토 하자. (유보)"
   },
   {
     "EN": "Solid performer",
-    "KR": "안정적 성과자."
+    "KR": "안정적 성과자 입니다. (잘하나 승진 아님)"
   },
   {
     "EN": "Strong trajectory",
-    "KR": "성장 곡선이 좋다."
+    "KR": "성장 곡선이 좋다. (승진 가능성 높음)"
   },
   {
     "EN": "I'm not fully convinced yet",
-    "KR": "아직 확신이 서진 않는다"
+    "KR": "아직 확신이 서진 않는다. (부정의 의미보다는 추가근거 필요함)"
   },
   {
     "EN": "This feels early",
-    "KR": "시기상 조금 이르다."
+    "KR": "시기상 조금 이르다. (아직 부족함)"
   },
   {
     "EN": "She's getting there.",
-    "KR": "점점 그 단계에 이르고 있다."
+    "KR": "점점 그 단계에 이르고 있다. (아직 준비는 안됨)"
   },
   {
     "EN": "mutual separation",
@@ -900,7 +900,7 @@
   },
   {
     "EN": "mutual departure",
-    "KR": "상호 합의에 의한 퇴사"
+    "KR": "상호 협의에 의한 퇴사 (mutual separation보다 부드러운 표현)"
   },
   {
     "EN": "voluntary separation",
@@ -912,7 +912,7 @@
   },
   {
     "EN": "separation package",
-    "KR": "퇴사 보상 패키지"
+    "KR": "퇴사 보상 패키지 (퇴직금+보상 포함)"
   },
   {
     "EN": "separation date",
@@ -960,11 +960,11 @@
   },
   {
     "EN": "restructuring",
-    "KR": "조직 개편"
+    "KR": "조직 개편 (인원감축 포함될 수 있음)"
   },
   {
     "EN": "reorganization",
-    "KR": "조직 재편성"
+    "KR": "조직 재편성 (구조조정일 수 있음)"
   },
   {
     "EN": "organizational changes",
@@ -972,31 +972,31 @@
   },
   {
     "EN": "workforce reduction",
-    "KR": "인력감축"
+    "KR": "인력감축 (공식적 표현)"
   },
   {
     "EN": "reduction in force (RIF)",
-    "KR": "정리해고"
+    "KR": "정리해고 (법적 용어)"
   },
   {
     "EN": "rightsizing",
-    "KR": "적정규모조정"
+    "KR": "적정규모조정 (downsizing의 완곡표현)"
   },
   {
     "EN": "streamlining the org",
-    "KR": "조직 슬림화"
+    "KR": "조직 슬림화 (인력축소 포함)"
   },
   {
     "EN": "position eliminated",
-    "KR": "직무가 폐지됨"
+    "KR": "직무가 폐지됨 (개인의 탓이 아님을 강조하는 표현)"
   },
   {
     "EN": "role redundancy",
-    "KR": "중복 역할"
+    "KR": "중복 역할 (감축 이유 설명시 사용될 수 있음)"
   },
   {
     "EN": "eliminated due to redundancy",
-    "KR": "중복 인력으로 직무 폐지"
+    "KR": "중복 인력으로 직무 폐지 (법적 리스크 낮은 완곡어)"
   },
   {
     "EN": "structural redundancy",
@@ -1020,7 +1020,7 @@
   },
   {
     "EN": "transitioned out",
-    "KR": "이동이 있었음"
+    "KR": "이동이 있었음 (퇴사 완곡표현)"
   },
   {
     "EN": "asked to leave",
@@ -1032,7 +1032,7 @@
   },
   {
     "EN": "Performance Improvement Plan",
-    "KR": "성과계선계획"
+    "KR": "성과개선계획"
   },
   {
     "EN": "coaching period",
